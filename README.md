@@ -13,3 +13,4 @@ Quick and dirty script to find your followers / people you followed on your twit
 - This script generates a file with links to all your followed accounts, and it opens each link as a tab in your browser. Make sure to disable this first if you only want the text file!
 
 - This script opens up all the links to every account you follow at once - I only had ~150 people I followed, but if you have hundreds or thousands this will probably crash your browser and make your PC hang. Use at your own peril! Or modifiy it yourself for a high volume of followers/followed accounts.
+- You have to manually click 'follow' on each account. 
