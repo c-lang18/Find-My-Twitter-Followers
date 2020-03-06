@@ -17,7 +17,7 @@ import webbrowser
 LINKS = []
 bites = str()
 
-with open(os.path.join(sys.path[0], "following.js"), "r") as f:
+with open(os.path.join(sys.path[0], "following.js"), "r") as f: #change 'following.js' to 'followers.js' to switch which file you're scanning
     data = f.readlines()
     for i in str(data).split(','):
         bites = i.split("\"")
